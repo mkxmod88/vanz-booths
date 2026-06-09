@@ -1,0 +1,6 @@
+{
+  "name": "Premium Photo Booth",
+  "description": "Platform bilik foto premium mandiri dengan jepretan strip 4K, kustomisasi bingkai mewah, kontrol ISO/pencahayaan pro, sensor suara shutter, filter estetik, dan bagikan instan via QR code.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
